@@ -4,7 +4,7 @@ This repository contains a list of and information on 5,400 US news domains. The
 
 - `us-news-domains-v1.0.0.csv`: The main data set of news domains. We only include top-level domains, except when news is only a part of the organization's web site (e.g. yahoo.com/news, msn.com/en-us/news etc). The data set further contains a continuous variable `ideology` and a categorical variable `type` indicating whether the outlet is national, local or international. For coding see below.
 - `us-news-twitter-v1.0.0.csv`: The Twitter accounts linked to each domain. Many news organizations have several Twitter accounts (and therefore several rows in this data set). 
-- `us-news-facebook-v1.0.0.csv`: The Facebook accounts linked to each domain. Many news organizations have several Facebook accounts (and therefore several rows in this data set). 
+- `us-news-facebook-v1.0.0.csv`: The Facebook accounts linked to each domain. 
 
 ## Data sources
 
