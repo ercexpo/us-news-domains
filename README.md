@@ -25,7 +25,7 @@ These domains were included only if manually labelled as news. To account for lo
 
 ### Ideology
 
-We matched the domains to ideology scores estimated via Twitter sharing patterns by Robertson et al. 2018.[^1] Note that not every domain has a score.
+We matched the domains to ideology scores estimated via Twitter sharing patterns by Robertson et al. 2018.[^1] More negative values represent a more liberal ideology, more positive values a more conservative ideology. Note that not every domain has a score.
 
 ### Type
 
