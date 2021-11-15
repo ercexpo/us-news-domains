@@ -1,0 +1,2 @@
+# The following domains should be excluded in a version 2.0:
+livejournal.com; more a social media site than news site
