@@ -37,7 +37,7 @@ We matched the domains to ideology scores estimated via Twitter sharing patterns
 
 ## If you use this resource please cite as follows:
 
-Clemm von Hohenberg, B., Menchen-Trevino, E., Casas, A., Wojcieszak, M. (2021). A list of over 5000 US news domains and their social media accounts. https://doi.org/10.5281/zenodo.5681483
+Clemm von Hohenberg, B., Menchen-Trevino, E., Casas, A., Wojcieszak, M. (2021). A list of over 5000 US news domains and their social media accounts. https://doi.org/10.5281/zenodo.7651047
 
 ## Corrections and extensions
 
