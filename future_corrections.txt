@@ -1,2 +1,5 @@
-# The following domains should be excluded in a version 2.0:
+# The following domains should be excluded in a version 3.0:
 livejournal.com; more a social media site than news site
+
+# The readme should explain entries like yahoo.com/news
+# the list should be updated with news.yahoo.com, aol.com/finance
